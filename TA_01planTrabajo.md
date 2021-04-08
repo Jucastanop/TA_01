@@ -8,8 +8,7 @@ Tener terminado las funcionalidades basicas para todo publico o usuarios sin un 
 ## Informe 06: 13 horas del viernes 7 de mayo.
 Comenzar con la funcionalidades avanzadas en la que los usuarios introducen la informacion y el programa dispondra de algunas respuestas
 ## Informe 07: 13 horas del viernes 14 de mayo.
-Perfeccionar el sistema de predicciones del programa para tener una respuesta mas cercana a las preferencias del consumidor dado los aspectos mas importantes 
-considerados por mi.
+Perfeccionar el sistema de predicciones del programa para tener una respuesta mas cercana a las preferencias del consumidor dado los aspectos mas importantes considerados por mi.
 ## Informe 08: 13 horas del viernes 21 de mayo.
 Agregar nuevas funcionalidades sencillas que hagan del programa algo mas util y crear una interfaz grafica de usuario sencilla que haga mas bonito el programa.
 ## Informe 09: 13 horas del viernes 28 de mayo.
